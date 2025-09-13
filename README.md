@@ -18,8 +18,9 @@
 <a href="https://twitter.com/gauravstr" target="blank"><img src="https://img.shields.io/twitter/follow/gauravstr?logo=twitter&style=for-the-badge" alt="twitter"/></a>
 <a href="https://linkedin.com/in/gaurav-sutar-65a59820b" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
 <a href="https://instagram.com/gauravsutar2680" target="blank"><img src="https://img.shields.io/badge/-Instagram-e4405f?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="https://www.youtube.com/@gauravstr" target="blank"><img src="https://img.shields.io/badge/-YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+<a href="https://www.youtube.com/@gauravsutar8611" target="blank"><img src="https://img.shields.io/badge/-YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 </p>
+
 
 ---
 
