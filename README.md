@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gaurav Sutar</h1>
-<h3 align="center">💻 Java Developer | Spring Boot & Microservices | Backend Enthusiast</h3>
+<h3 align="center">💻 Java Developer | Spring Boot & Microservices | AI Engineer in Training</h3>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
@@ -8,6 +8,7 @@
 ### 👨‍💻 About Me  
 - 🔭 Currently working as **Software Developer at C-Edge Technologies Ltd.**  
 - 🌱 Exploring **React.js, Node.js, and Cloud Technologies**  
+- 🤖 Training in **AI Engineering (Python, NLP, Transformers, LLMs, LangChain, Hugging Face, APIs)**  
 - 💡 Passionate about building scalable backend systems with **Java + Spring Boot + Microservices**  
 - 📫 Reach me at: **gauravsutar.tech86@gmail.com**  
 
@@ -20,7 +21,6 @@
 <a href="https://instagram.com/gauravsutar2680" target="blank"><img src="https://img.shields.io/badge/-Instagram-e4405f?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 <a href="https://www.youtube.com/@gauravsutar8611" target="blank"><img src="https://img.shields.io/badge/-YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 </p>
-
 
 ---
 
@@ -36,6 +36,9 @@
 
 #### 🌐 Frontend & Others  
 `React.js` | `Node.js` | `JavaScript` | `TypeScript` | `HTML` | `CSS` | `Bootstrap` | `Tailwind`  
+
+#### 🤖 AI Engineering (In Training)  
+`Python` | `NLP` | `Transformers` | `LLMs` | `LangChain` | `Hugging Face` | `APIs`  
 
 ---
 
