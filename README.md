@@ -193,8 +193,8 @@ A real-time portfolio management system with live P&L updates, Kafka-driven even
 
 | Platform | Link |
 |---------|------|
-| 🌐 Portfolio | [gauravsutar.tech](https://gauravsutar.tech) |
-| 💼 LinkedIn | [linkedin.com/in/gaurav-sutar](https://linkedin.com/in/gaurav-sutar) |
+| 🌐 Portfolio | [gauravsutar.tech](https://gauravsutar-tech.vercel.app/) |
+| 💼 LinkedIn | [https://www.linkedin.com/in/gaurav-sutar-65a59820b/](https://www.linkedin.com/in/gaurav-sutar-65a59820b/) |
 | 📧 Email | [gauravsutar.tech86@gmail.com](mailto:gauravsutar.tech86@gmail.com) |
 | 🐙 GitHub | [github.com/gauravstr07](https://github.com/gauravstr07) |
 
