@@ -1,106 +1,211 @@
-<h1 align="center">
-  Hey there 👋, I'm <span style="color:#00C9FF;">Gaurav Sutar</span>
-</h1>
+<div align="center">
 
-<h3 align="center">
-💻 Java Developer | ⚡ Spring Boot & Microservices | 🤖 AI Engineer in Training
-</h3>
+<!-- Animated Typing Header -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Gaurav+Sutar+%F0%9F%91%8B;Java+Backend+Developer;Microservices+%7C+Spring+Boot+%7C+Cloud-Native;Building+systems+that+scale+%F0%9F%9A%80" alt="Typing SVG" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00C9FF&center=true&vCenter=true&width=700&lines=Backend+Developer+%7C+Java+%7C+Spring+Boot;Microservices+Architect+%7C+Cloud+Explorer;AI+Engineer+in+Training+%7C+NLP+%7C+LLMs;Always+Learning+%7C+Building+%7C+Innovating" alt="Typing SVG" />
-</p>
+<br/>
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+<img src="https://komarev.com/ghpvc/?username=gauravstr07&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS" alt="Profile Views"/>
+&nbsp;
+<a href="https://linkedin.com/in/gaurav-sutar"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+&nbsp;
+<a href="https://gauravsutar.tech"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white"/></a>
+&nbsp;
+<a href="mailto:gauravsutar.tech86@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
----
-
-## 👨‍💻 About Me  
-- 🔭 Currently working as **Software Developer @ C-Edge Technologies Ltd.**  
-- 🌱 Learning & Exploring **React.js, Node.js, and Cloud Technologies**  
-- 🤖 Training in **AI Engineering (Python, NLP, LLMs, LangChain, Hugging Face, APIs)**  
-- 💡 Passionate about **scalable backend systems with Java + Spring Boot + Microservices**  
-- ⚡ Love to **solve real-world problems & explore system design**  
-- 📫 Reach me at: **gauravsutar.tech86@gmail.com**  
+</div>
 
 ---
 
-## 🌐 Connect With Me  
-<p align="center">
-  <a href="https://twitter.com/gauravstr" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/gauravstr?logo=twitter&style=for-the-badge" />
-  </a>
-  <a href="https://linkedin.com/in/gaurav-sutar-65a59820b" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/gauravsutar2680" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://www.youtube.com/@gauravsutar8611" target="_blank">
-    <img src="https://img.shields.io/badge/-YouTube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-</p>
+## 🧠 About Me
+
+```java
+@Component
+public class GauravSutar implements BackendDeveloper {
+
+    private final String name        = "Gaurav Sutar";
+    private final String role        = "Java Backend Developer";
+    private final String location    = "Mumbai, Maharashtra 🇮🇳";
+    private final int    experience  = 3; // years
+
+    private final List<String> currentlyDoing = List.of(
+        "Building cloud-native microservices for banking systems",
+        "Grinding DSA for fintech product company interviews",
+        "Open to: Java Developer | Backend Engineer | SDE roles"
+    );
+
+    private final List<String> targetCompanies = List.of(
+        "Razorpay", "PhonePe", "Juspay", "CRED", "Groww", "Slice", "Paytm"
+    );
+
+    @Override
+    public String getSuperpower() {
+        return "Turning complex distributed systems into 99.9% uptime realities";
+    }
+}
+```
 
 ---
 
-## 🛠️ Tech Stack  
+## 🛠️ Tech Stack
 
-#### 💻 Backend & Frameworks  
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)  
-![Microservices](https://img.shields.io/badge/Microservices-%2300C9FF.svg?style=for-the-badge&logo=microgenetics&logoColor=white)  
-![Hibernate](https://img.shields.io/badge/Hibernate-%23000000.svg?style=for-the-badge&logo=hibernate&logoColor=white)  
+<div align="center">
 
-#### 🗄️ Databases  
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)  
-![Oracle](https://img.shields.io/badge/Oracle-%23F00000.svg?style=for-the-badge&logo=oracle&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)  
+**Languages & Core**
 
-#### 🚀 DevOps & Tools  
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  
-![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)  
-![GitLab](https://img.shields.io/badge/GitLab-%23FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=white)  
-![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-#### 🌐 Frontend & Others  
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)  
-![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)  
-![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)  
-![Tailwind](https://img.shields.io/badge/Tailwind-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)  
+**Frameworks & Backend**
 
-#### 🤖 AI Engineering (In Training)  
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)  
-![NLP](https://img.shields.io/badge/NLP-%23FF9800.svg?style=for-the-badge&logo=semanticweb&logoColor=white)  
-![Transformers](https://img.shields.io/badge/Transformers-%2300C9FF.svg?style=for-the-badge&logo=huggingface&logoColor=white)  
-![LLMs](https://img.shields.io/badge/LLMs-%23663399.svg?style=for-the-badge&logo=openai&logoColor=white)  
-![LangChain](https://img.shields.io/badge/LangChain-%23000000.svg?style=for-the-badge&logo=chainlink&logoColor=white)  
-![HuggingFace](https://img.shields.io/badge/HuggingFace-%23FFD700.svg?style=for-the-badge&logo=huggingface&logoColor=black)  
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![Spring Batch](https://img.shields.io/badge/Spring_Batch-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 
----
+**Messaging & Caching**
 
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gauravstr07&show_icons=true&theme=radical&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gauravstr07&show_icons=true&layout=compact&theme=radical&hide_border=true" height="160" />
-</p>
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gauravstr07&theme=radical&hide_border=true" height="160" />
-</p>
+**Databases**
 
----
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-## ⚡ Fun Zone  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gauravstr07&theme=radical&no-frame=true&row=1&column=6" alt="trophies" />
-</p>
+**Cloud & DevOps**
 
-<p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+**Security & Testing**
+
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![OAuth2](https://img.shields.io/badge/OAuth2-EB5424?style=for-the-badge&logo=auth0&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-78A641?style=for-the-badge&logo=java&logoColor=white)
+
+</div>
 
 ---
 
-⭐️ From [gauravstr07](https://github.com/gauravstr07)
+## 🚀 Featured Projects
+
+### 🏦 Banking Asset Management System
+> *Microservices Architecture | Event-Driven | 2024*
+
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)]()
+[![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)]()
+[![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)]()
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)]()
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)]()
+
+An event-driven microservices platform for managing **10,000+ banking assets** — tracking, maintenance, and reconciliation at scale.
+
+| Metric | Result |
+|--------|--------|
+| 🔄 Service Coupling Reduction | **60%** via Kafka async messaging |
+| 💾 Database Load Reduction | **35%** via SQL indexing + Spring Batch |
+| 🛡️ Fault Tolerance | Resilience4j circuit breakers across **5+ microservices** |
+| ✅ Data Consistency | **99.9%** across all distributed services |
+
+---
+
+### 📈 Investment Portfolio Management System
+> *Kubernetes-deployed | Real-time Kafka Streaming | 2025*
+
+[![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)]()
+[![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)]()
+[![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)]()
+[![Kubernetes](https://img.shields.io/badge/K8s-326CE5?style=flat-square&logo=kubernetes&logoColor=white)]()
+[![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)]()
+
+A real-time portfolio management system with live P&L updates, Kafka-driven event streaming, and Kubernetes-managed high availability.
+
+| Metric | Result |
+|--------|--------|
+| ⚡ API Latency Reduction | **40%** via Redis distributed caching |
+| 📊 Event Throughput | **10,000+ events/sec** with <200ms end-to-end latency |
+| 🌐 Availability | **99.9%** via K8s horizontal pod autoscaling |
+| 🔒 Compliance | **100% regulatory compliance** via AWS S3 secure storage |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gauravstr07&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+&nbsp;&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravstr07&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=gauravstr07&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+
+</div>
+
+<div align="center">
+
+[![Gaurav's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gauravstr07&theme=tokyo-night&hide_border=true)](https://github.com/gauravstr07)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=gauravstr07&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/gauravstr07)
+
+</div>
+
+---
+
+## 💼 Professional Highlights
+
+```
+📍 Current:  Backend Engineer @ C-Edge Technologies Ltd., Navi Mumbai
+🎓 Education: B.Sc. IT — G.M. Vedak Institute of Technology (CGPA: 8.85/10.0)
+⏱️  Experience: 3+ Years in Banking & Fintech Systems
+📦  Repos:    130+ public repositories
+🧪  Testing:  Elevated test coverage from 60% → 85% (JUnit + Mockito)
+🚀  CI/CD:    Accelerated release cycles by 40% with zero-downtime deployments
+🔐  Security: OWASP Top 10 compliant — eliminated 90% of critical vulnerabilities
+📉  MTTR:     Reduced mean-time-to-resolution by 25% via distributed tracing
+```
+
+---
+
+## 📬 Let's Connect
+
+<div align="center">
+
+| Platform | Link |
+|---------|------|
+| 🌐 Portfolio | [gauravsutar.tech](https://gauravsutar.tech) |
+| 💼 LinkedIn | [linkedin.com/in/gaurav-sutar](https://linkedin.com/in/gaurav-sutar) |
+| 📧 Email | [gauravsutar.tech86@gmail.com](mailto:gauravsutar.tech86@gmail.com) |
+| 🐙 GitHub | [github.com/gauravstr07](https://github.com/gauravstr07) |
+
+</div>
+
+---
+
+<div align="center">
+
+*"First, solve the problem. Then, write the code."*
+
+⭐ **If you find my work useful, drop a star on a repo — it means a lot!** ⭐
+
+</div>
